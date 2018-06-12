@@ -5313,11 +5313,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Booproweb-3\\source\\repos\\EntityTEST\\LibraryService\\LibraryService.csproj",
+      "projectUniqueName": "C:\\xampp\\htdocs\\EntityTEST\\LibraryService\\LibraryService.csproj",
       "projectName": "LibraryService",
-      "projectPath": "C:\\Users\\Booproweb-3\\source\\repos\\EntityTEST\\LibraryService\\LibraryService.csproj",
+      "projectPath": "C:\\xampp\\htdocs\\EntityTEST\\LibraryService\\LibraryService.csproj",
       "packagesPath": "C:\\Users\\Booproweb-3\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Booproweb-3\\source\\repos\\EntityTEST\\LibraryService\\obj\\",
+      "outputPath": "C:\\xampp\\htdocs\\EntityTEST\\LibraryService\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5336,8 +5336,8 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "C:\\Users\\Booproweb-3\\source\\repos\\EntityTEST\\LibraryData\\LibraryData.csproj": {
-              "projectPath": "C:\\Users\\Booproweb-3\\source\\repos\\EntityTEST\\LibraryData\\LibraryData.csproj"
+            "C:\\xampp\\htdocs\\EntityTEST\\LibraryData\\LibraryData.csproj": {
+              "projectPath": "C:\\xampp\\htdocs\\EntityTEST\\LibraryData\\LibraryData.csproj"
             }
           }
         }

@@ -5295,11 +5295,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Booproweb-3\\source\\repos\\EntityTEST\\LibraryData\\LibraryData.csproj",
+      "projectUniqueName": "C:\\xampp\\htdocs\\EntityTEST\\LibraryData\\LibraryData.csproj",
       "projectName": "LibraryData",
-      "projectPath": "C:\\Users\\Booproweb-3\\source\\repos\\EntityTEST\\LibraryData\\LibraryData.csproj",
+      "projectPath": "C:\\xampp\\htdocs\\EntityTEST\\LibraryData\\LibraryData.csproj",
       "packagesPath": "C:\\Users\\Booproweb-3\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Booproweb-3\\source\\repos\\EntityTEST\\LibraryData\\obj\\",
+      "outputPath": "C:\\xampp\\htdocs\\EntityTEST\\LibraryData\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
