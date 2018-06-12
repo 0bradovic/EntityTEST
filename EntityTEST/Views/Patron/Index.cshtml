@@ -1,0 +1,32 @@
+﻿@using EntityTEST.Models.Patron
+@model EntityTEST.Models.Patron.PatronIndexModel
+@{
+    ViewBag.Title = "Library Catalog Index";
+}
+<div id="assets">
+    <h3>Library Catalog</h3>
+    <div id="assetsTable">
+        <table class="table table-condensed" id="catalogIndexTable">
+            <thead>
+                <tr>
+                    <th>First Name</th>
+                    <th>Last Name</th>
+                    <th>Address</th>
+                    <th>Date of Birth</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var asset in @Model.Patrons)
+                {
+                <tr class="assetRow">
+
+                    <td class="">@asset.FirstName</td>
+                    <td class="">@asset.LastName</td>
+                    <td class="">@asset.Address</td>
+                    <td class="">@asset.DateOfBirth</td>
+                </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>

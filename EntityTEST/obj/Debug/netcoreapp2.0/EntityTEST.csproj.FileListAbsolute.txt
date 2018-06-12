@@ -1,0 +1,16 @@
+c:\users\booproweb-3\source\repos\EntityTEST\EntityTEST\obj\Debug\netcoreapp2.0\EntityTEST.csprojAssemblyReference.cache
+c:\users\booproweb-3\source\repos\EntityTEST\EntityTEST\obj\Debug\netcoreapp2.0\EntityTEST.csproj.CoreCompileInputs.cache
+c:\users\booproweb-3\source\repos\EntityTEST\EntityTEST\obj\Debug\netcoreapp2.0\EntityTEST.AssemblyInfoInputs.cache
+c:\users\booproweb-3\source\repos\EntityTEST\EntityTEST\obj\Debug\netcoreapp2.0\EntityTEST.AssemblyInfo.cs
+c:\users\booproweb-3\source\repos\EntityTEST\EntityTEST\bin\Debug\netcoreapp2.0\EntityTEST.deps.json
+c:\users\booproweb-3\source\repos\EntityTEST\EntityTEST\bin\Debug\netcoreapp2.0\EntityTEST.runtimeconfig.json
+c:\users\booproweb-3\source\repos\EntityTEST\EntityTEST\bin\Debug\netcoreapp2.0\EntityTEST.runtimeconfig.dev.json
+c:\users\booproweb-3\source\repos\EntityTEST\EntityTEST\bin\Debug\netcoreapp2.0\EntityTEST.dll
+c:\users\booproweb-3\source\repos\EntityTEST\EntityTEST\bin\Debug\netcoreapp2.0\EntityTEST.pdb
+c:\users\booproweb-3\source\repos\EntityTEST\EntityTEST\bin\Debug\netcoreapp2.0\LibraryData.dll
+c:\users\booproweb-3\source\repos\EntityTEST\EntityTEST\bin\Debug\netcoreapp2.0\LibraryData.pdb
+c:\users\booproweb-3\source\repos\EntityTEST\EntityTEST\obj\Debug\netcoreapp2.0\EntityTEST.csproj.CopyComplete
+c:\users\booproweb-3\source\repos\EntityTEST\EntityTEST\obj\Debug\netcoreapp2.0\EntityTEST.dll
+c:\users\booproweb-3\source\repos\EntityTEST\EntityTEST\obj\Debug\netcoreapp2.0\EntityTEST.pdb
+C:\Users\Booproweb-3\source\repos\EntityTEST\EntityTEST\bin\Debug\netcoreapp2.0\LibraryService.dll
+C:\Users\Booproweb-3\source\repos\EntityTEST\EntityTEST\bin\Debug\netcoreapp2.0\LibraryService.pdb
